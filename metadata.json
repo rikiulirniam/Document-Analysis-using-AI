@@ -1,0 +1,6 @@
+{
+  "name": "DocAudit AI",
+  "description": "Web-based AI document auditing application that analyzes PDFs and DOCXs for language quality, correctness, relevance, completeness, structure, and assignment coverage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
